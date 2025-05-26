@@ -1,0 +1,71 @@
+.side-menu {
+    width: 449px;
+    padding: 1.5rem; 
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .frame {
+    display: flex;
+    flex-direction: column;
+    gap:0px; 
+  }
+  
+  .frame-title {
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 600; 
+    letter-spacing: -0.02em;
+  }
+  
+  .frame-box-1 , .frame-box-2{
+    border: 1px solid black;
+    border-radius: 0.5rem; 
+    padding:0.5rem 1rem 0.5rem 1rem; 
+  }
+
+  .frame-box-2 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: start;
+  }
+
+  .frame-box-2 > button{
+    background: none;
+    border: none;
+  }
+
+  .frame-box-2 > button:hover{
+    cursor: pointer;
+  }
+  .inner-frame-box{
+    width: 80%;
+  }
+  
+  .frame-content {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+  
+  .label {
+    display: block;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+    margin-top: 0.5rem;
+  }
+  
+  .faded {
+    color: #666666;
+  }
+
+
+.custom-calendar {
+  background-color: #FFFBF3 !important;
+  margin-left: 100px;
+}

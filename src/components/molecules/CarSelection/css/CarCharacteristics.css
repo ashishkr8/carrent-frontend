@@ -1,0 +1,105 @@
+.title-rating {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 1.1805vw;
+  border-bottom: 1px solid #dcdcdd;
+}
+
+.text-container {
+  width: auto;
+  flex-grow: 0;
+}
+
+.title-rating h2 {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  overflow-wrap: break-word;
+  font-size: 1.25vw;
+}
+
+.title-rating p {
+  margin: 0;
+  font-size: 0.9722vw;
+  height: 20px;
+  color: #666666;
+  text-align: left;
+  overflow-wrap: break-word;
+}
+
+.rating {
+  font-size: 0.9722vw;
+  color: #666666;
+  z-index: 1100;
+  cursor: pointer;
+  white-space: nowrap;
+  padding-top: 4px;
+  gap:0.2777vw;
+  margin: 0;
+}
+
+.ratingStar {
+  color: #f8b334;
+  font-size: 0.9722vw;
+}
+
+.car-specs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.car-feature {
+  height: 24px;
+  display: flex;
+  align-items: center;
+  gap: 0.5vw;
+  flex-wrap: nowrap;
+}
+
+.car-label {
+  font-family: Inter, sans-serif;
+  letter-spacing: -0.02em;
+  font-size:  1.111vw;
+  font-weight: 400;
+  display: flex;
+ 
+}
+.icon{
+  font-size: "1.25vw" ;
+  
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 1vw;
+  
+}
+.left-side,
+.right-side {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+
+
+
+/* Date Selector */
+/* .date-selector {
+    width: 168px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 4px;
+    padding: 0 12px;
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    color: #2b2b2b;
+    box-sizing: border-box;
+    cursor: pointer;
+  } */

@@ -1,0 +1,77 @@
+/* Common styles for all alerts */
+.alert-box {
+    position: fixed;
+    top: 5px;
+    width: 370px;
+    height: max-content;
+    border-radius: 5px;
+    padding: 1rem 24px;
+    display: flex;
+    gap: 18px;
+    position: relative;
+    z-index: 9999;
+    opacity: 0.95;
+    animation: fadeInOut 3s ease-in-out;
+  }
+  
+
+.alert-box *{
+  background-color: inherit;
+}
+  
+  .alert-icon {
+    flex-shrink: 0;
+  }
+  
+  .alert-content {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .alert-heading {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+    color: black;
+  }
+  
+  .alert-message {
+    font-size: 12px;
+    margin: 0;
+    color: #555;
+  }
+  
+  .alert-description {
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .alert-close {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    cursor: pointer;
+    color: #333;
+  }
+  
+  /* Success Alert Styling */
+  .success-alert {
+    border: 2px solid #149e32;
+    background-color: #e2fae7;
+    color: #149e32;
+  }
+  
+  /* Error Alert Styling */
+  .error-alert {
+    border: 2px solid #e12d39;
+    background-color: #fdecea;
+    color: #e12d39;
+  }
+  
+  /* Warning Alert Styling */
+  .warning-alert {
+    border: 2px solid #c67c00;
+    background-color: #fff4e5;
+    color: #c67c00;
+  }

@@ -1,0 +1,130 @@
+.car-booking-card {
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f0f0;
+    width: 100%;
+    max-width: 332px;
+    height: 360px;
+    border-radius: 12px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* Equal gap between each element */
+  }
+  
+  .car-card-top {
+    display: flex;
+    flex-direction: column;
+    /* gap: 8px; */
+  }
+  
+  .car-image {
+    width: 100%;
+    height: 170px;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  .car-model {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+  }
+  
+  .order-history {
+    font-size: 14px;
+    font-weight: normal;
+    color: #666666;
+    letter-spacing: -0.02em;
+    margin: 0;
+  }
+  
+  .hr-line {
+    height: 1px;
+    background-color: black;
+    border: none;
+    width: 100%;
+  }
+  
+  .car-card-bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .price {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+  }
+  
+  .button-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .cancel-btn,
+  .edit-btn {
+    flex: 1;
+    height: 42px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 0 12px;
+  }
+  
+  .cancel-btn {
+    background-color: #f3f3f3;
+    color: black;
+    border: 1.5px solid black;
+  }
+  
+  .edit-btn {
+    background-color: #cc1d1d;
+    color: white;
+    border: none;
+  }
+  
+  .confirm-reservation {
+    width: 100%;
+    height: 32px;
+    border-radius: 30px;
+    background-color: #cc1d1d;
+    color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .support-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #666666;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin: 0;
+  }
+  
+  .support-link {
+    font-weight: 500;
+    color: black;
+    text-decoration: underline;
+  }
+
+  .price .car-model{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  

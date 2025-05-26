@@ -1,0 +1,23 @@
+.mybookings-root{
+    margin-left: 20px;
+    
+}
+
+.mybookings-cards-container{
+    display: flex;
+    flex-flow: row wrap;
+    gap: 10px;
+
+    margin-bottom: 20vh;
+}
+
+.mybookings-text{
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    width: 347px;
+    height: 64px;
+
+    font-weight: 600;
+    font-size: 50px;
+}
+

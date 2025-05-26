@@ -1,0 +1,15 @@
+.about-item{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+#about-item-head{
+    font-size: 28px;
+}
+#about-item-value{
+    font-size: 48px;
+    
+}
+#about-item-description{
+    font-size: 14px
+}

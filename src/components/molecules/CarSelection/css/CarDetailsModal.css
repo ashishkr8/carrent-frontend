@@ -1,0 +1,284 @@
+.modal-overlay {
+  position: fixed;
+  padding: 40px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4); 
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  z-index: 1000;
+  overflow: auto; 
+}
+
+.modal-overlay::-webkit-scrollbar {
+  display: none;
+}
+
+.modal-container {
+  aspect-ratio: 4 / 3;
+  width: min(100%, 1376px);
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  background-color: #fffbf3;
+  border-radius: 8px;
+  padding: 40px;
+  overflow-y: auto;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+}
+
+.modal-header {
+  position: sticky;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 32px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: start;
+  z-index: 1200;
+}
+
+.close-btn {
+  position: absolute;
+  background-color: transparent;
+  top: -25px;
+  right: -25px;
+  width: 32px;
+  height: 32px;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  color: #333;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1100;
+    
+}
+
+.modal-content {
+  width: min(100%, 1296px);
+  aspect-ratio: 2.688;
+  display: flex;
+  gap: 1%;
+  box-sizing: border-box;
+}
+
+.car-images {
+  width: min(100%, 856px);
+  aspect-ratio: 1.77;
+  display: flex;
+  gap: 1vw;
+}
+.main-image img {
+  width: 100%;
+  height: auto;
+}
+
+.thumbnails {
+  display: flex;
+  flex-direction: column;
+  gap: 1vw;
+  width: 15%;
+
+}
+
+.thumbnails img {
+  width: 100%;
+  height: calc((100% - (4 * 1vw)) / 5);
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.main-image {
+  position: relative;
+  flex: 1;
+  width: 85%;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.status-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 14px;
+}
+
+.car-info {
+  background-color: #f0f0f0;
+  flex: 1 1 300px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap:1vw;
+  width: min(100%, 92px);
+  aspect-ratio: 5.29;
+  
+}
+
+@media (min-width: 1800px){
+  .car-label{
+    font-size: 0.5vw !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .modal-content {
+    flex-direction: column; 
+    gap: 2vw;
+    aspect-ratio: auto;
+  }
+
+  .car-images {
+    flex-direction: column; 
+    width: 100%;
+    aspect-ratio: auto;
+  }
+
+  .thumbnails {
+    flex-direction: row; 
+    width: 100%;
+    gap: 2vw;
+    order: 1;
+  }
+
+  .thumbnails img {
+    width: calc((100% - (4 * 2vw)) / 5); 
+    height: auto;
+  }
+
+  .main-image {
+    width: 100%;
+    order: 2;
+    aspect-ratio: 1.77;
+  }
+
+  .title-rating h2 {
+    font-size:2.5vw !important;
+  }
+  .title-rating p{
+    font-size: 1.8vw !important;
+  }
+  .rating {
+    font-size: 1.8vw !important;
+  }
+  .ratingStar {
+    font-size: 1.8vw !important;
+  }
+  .icon {
+    font-size: 2.2vw !important;
+  }
+
+  .car-info {
+    width: 100%;
+    padding: 5%;
+    aspect-ratio: auto;
+    order: 3;
+    flex: auto;
+  }
+  .car-feature{
+    display: flex;
+
+  }
+  .left-side,
+  .right-side {
+    display: flex;
+
+    gap: 0.8vw;
+  }
+  
+  .car-label{
+
+    font-size: 1.8vw !important;
+  }
+  .date-block{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    padding: 2% ;
+  }
+  .date-picker-button{
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    
+  }
+  .book-now-btn{
+    height: 30%;
+    font-size: 2.5vw;
+  }
+  .icon{
+    font-size: 16px;
+  }
+  .details{
+    margin-bottom: 10px;
+    
+    
+    
+  }
+  .title-rating{
+    padding-bottom: 10px;
+  }
+  .status-badge {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 3px 9px;
+    border-radius: 12px;
+    font-size: 1.2vw;
+  }
+  .review{
+    display: flex;
+    flex-direction: column;
+    gap: 5px !important;
+  }
+  .date-picker-button{
+    font-size: 2.1vw;
+    
+  }
+  .feedback h3{
+    font-size: 2.1vw;
+  }
+  .sort-label{
+    text-align: center;
+    font-size: 1.5vw;
+  }
+  .minimal-select{
+    font-size: 1.5vw;
+  }
+  .review-left span{
+    font-size: 1.5vw;
+  }
+  .review-stars{
+    font-size: 1.5vw;
+  }
+  .review-text{
+    font-size: 1.5vw;
+    line-height: 2vw;
+  }
+  .review-date{
+    font-size: 1.5vw;
+  }
+
+}

@@ -1,0 +1,50 @@
+
+.popularCars{
+    display: grid;
+    /* border: 2px solid red; */
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    margin: 8px 0px;
+}
+#go-to-car{
+    font-weight: bold;
+    color: black;
+    text-align: right;
+    margin: 0.7 5rem 0px;
+}
+
+/* MEDIA Query */
+@media screen and (max-width: 640px) {
+    .subheadings{
+        text-align: center;
+    }
+    .popularCars{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+        gap: 20px;
+        margin: 8px 0px;
+    }
+}
+@media screen and (min-width: 641px) and (max-width: 768px) {
+    .popularCars{
+        display: grid;
+        /* border: 2px solid red; */
+        grid-template-columns: repeat(2,1fr);
+        gap: 20px;
+        margin: 8px 0px;
+    }
+
+
+}
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .popularCars{
+        display: grid;
+        /* border: 2px solid red; */
+        grid-template-columns: repeat(3,1fr);
+        gap: 20px;
+        margin: 8px 0px;
+        grid-row: span 1;
+    }
+
+}

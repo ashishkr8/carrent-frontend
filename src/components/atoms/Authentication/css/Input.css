@@ -1,0 +1,25 @@
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.input-box {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  background-color: #FFFBF3;
+  border-radius: 8px;
+  margin: 0.3rem 0rem;
+}
+
+.input-box:focus {
+  outline: none;
+  border: 1px solid black;
+  /* border-color: black; */
+}
+
+.error-text {
+  color: #E22D0D;
+  font-size: 0.7rem;
+  margin-top: 0.25rem;
+}

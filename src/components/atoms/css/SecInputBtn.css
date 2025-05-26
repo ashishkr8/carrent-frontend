@@ -1,0 +1,13 @@
+#secBtnSubmit{
+    background-color: inherit;
+    font-weight: bold;
+    color: black;
+    padding: 8px 4px;
+    border-radius: 18px;
+    width: 100%;
+    border:1px solid black;
+}
+#secBtnSubmit:hover{
+    background-color: rgba(255, 255, 255, 0.863);
+    cursor: pointer;
+}

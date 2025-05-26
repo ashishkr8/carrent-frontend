@@ -1,0 +1,893 @@
+[
+  {
+    "carId": "41ae3f24-3c8d-45f9-9172-abc3e48d25ea",
+    "carRating": "5.0",
+    "images": [
+      "https://th.bing.com/th/id/OIP.qsVXdx-e2Wy8nLYV5f8YhAHaEK?rs=1&pid=ImgDetMain"
+    ],
+    "location": "UAE, Dubai",
+    "pickupLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "dropOffLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "model": "Lamborghini Urus 2023",
+    "pricePerDay": "600",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "4.0 Twin Turbo V8",
+    "fuelConsumption": "12.3 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "SPORTS SUV",
+    "mileageIncluded": "500 km/day",
+    "additionalFeatures": [
+      "Carbon fiber interior",
+      "Semi-autonomous driving",
+      "High-speed navigation"
+    ],
+    "color": "Yellow",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-10-01T10:00:00",
+      "dropOffDateTime": "2024-10-04T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-30T22:00:00"
+  },
+  {
+    "carId": "01c87432-3383-4328-85f8-7d20ba871509",
+    "carRating": "4.9",
+    "images": [
+      "https://th.bing.com/th/id/OIP.q9zBVsaLXxbEKLvILNiScgHaEo?rs=1&pid=ImgDetMain"
+    ],
+    "location": "Germany, Berlin",
+    "pickupLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "dropOffLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "model": "Tesla Model S 2022",
+    "pricePerDay": "250",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "ELECTRIC",
+    "engineCapacity": "Dual Motor AWD",
+    "fuelConsumption": "N/A (Electric)",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "PREMIUM",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": ["Autopilot", "GPS", "Wireless Smartphone Charging"],
+    "color": "Pearl White",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T08:00:00",
+      "dropOffDateTime": "2024-12-05T18:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T21:00:00"
+  },
+  {
+    "carId": "73c48f22-3afb-4d51-bb10-b897c483f593",
+    "carRating": "4.9",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/06/10/escalade-v-inline-B-1.jpg?auto=webp"
+    ],
+    "location": "USA, New York",
+    "pickupLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "dropOffLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "model": "Cadillac Escalade 2021",
+    "pricePerDay": "320",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "6.2 V8",
+    "fuelConsumption": "15.0 L/100km",
+    "passengerCapacity": "7",
+    "climateControl": "Four-Zone Climate",
+    "category": "LUXURY SUV",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": [
+      "Heated seats",
+      "Rear Entertainment System",
+      "Premium Audio"
+    ],
+    "color": "Black",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T10:00:00",
+      "dropOffDateTime": "2024-12-06T12:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T22:00:00"
+  },
+  {
+    "carId": "92c87432-3383-4328-85f8-7d20ba8715ec",
+    "carRating": "4.8",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/11/15/new-2023-toyota-prius-lead.jpg?auto=webp"
+    ],
+    "location": "Japan, Tokyo",
+    "pickupLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "dropOffLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "model": "Toyota Prius 2023",
+    "pricePerDay": "120",
+    "serviceRating": "4.7",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "HYBRID",
+    "engineCapacity": "1.8 Hybrid System",
+    "fuelConsumption": "4.4 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Dual-Zone Climate",
+    "category": "HATCHBACK",
+    "mileageIncluded": "300 km/day",
+    "additionalFeatures": [
+      "Adaptive cruise control",
+      "Lane-keeping assist",
+      "Bluetooth"
+    ],
+    "color": "Green",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-09-15T14:00:00",
+      "dropOffDateTime": "2024-09-20T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-14T23:30:00"
+  },
+  {
+    "carId": "41ae3f24-3c8d-45f9-9172-abc3e48d25ea",
+    "carRating": "5.0",
+    "images": [
+      "https://th.bing.com/th/id/OIP.qsVXdx-e2Wy8nLYV5f8YhAHaEK?rs=1&pid=ImgDetMain"
+    ],
+    "location": "UAE, Dubai",
+    "pickupLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "dropOffLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "model": "Lamborghini Urus 2023",
+    "pricePerDay": "600",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "4.0 Twin Turbo V8",
+    "fuelConsumption": "12.3 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "SPORTS SUV",
+    "mileageIncluded": "500 km/day",
+    "additionalFeatures": [
+      "Carbon fiber interior",
+      "Semi-autonomous driving",
+      "High-speed navigation"
+    ],
+    "color": "Yellow",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-10-01T10:00:00",
+      "dropOffDateTime": "2024-10-04T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-30T22:00:00"
+  },
+  {
+    "carId": "01c87432-3383-4328-85f8-7d20ba871509",
+    "carRating": "4.9",
+    "images": [
+      "https://th.bing.com/th/id/OIP.q9zBVsaLXxbEKLvILNiScgHaEo?rs=1&pid=ImgDetMain"
+    ],
+    "location": "Germany, Berlin",
+    "pickupLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "dropOffLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "model": "Tesla Model S 2022",
+    "pricePerDay": "250",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "ELECTRIC",
+    "engineCapacity": "Dual Motor AWD",
+    "fuelConsumption": "N/A (Electric)",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "PREMIUM",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": ["Autopilot", "GPS", "Wireless Smartphone Charging"],
+    "color": "Pearl White",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T08:00:00",
+      "dropOffDateTime": "2024-12-05T18:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T21:00:00"
+  },
+  {
+    "carId": "73c48f22-3afb-4d51-bb10-b897c483f593",
+    "carRating": "4.9",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/06/10/escalade-v-inline-B-1.jpg?auto=webp"
+    ],
+    "location": "USA, New York",
+    "pickupLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "dropOffLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "model": "Cadillac Escalade 2021",
+    "pricePerDay": "320",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "6.2 V8",
+    "fuelConsumption": "15.0 L/100km",
+    "passengerCapacity": "7",
+    "climateControl": "Four-Zone Climate",
+    "category": "LUXURY SUV",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": [
+      "Heated seats",
+      "Rear Entertainment System",
+      "Premium Audio"
+    ],
+    "color": "Black",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T10:00:00",
+      "dropOffDateTime": "2024-12-06T12:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T22:00:00"
+  },
+  {
+    "carId": "92c87432-3383-4328-85f8-7d20ba8715ec",
+    "carRating": "4.8",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/11/15/new-2023-toyota-prius-lead.jpg?auto=webp"
+    ],
+    "location": "Japan, Tokyo",
+    "pickupLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "dropOffLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "model": "Toyota Prius 2023",
+    "pricePerDay": "120",
+    "serviceRating": "4.7",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "HYBRID",
+    "engineCapacity": "1.8 Hybrid System",
+    "fuelConsumption": "4.4 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Dual-Zone Climate",
+    "category": "HATCHBACK",
+    "mileageIncluded": "300 km/day",
+    "additionalFeatures": [
+      "Adaptive cruise control",
+      "Lane-keeping assist",
+      "Bluetooth"
+    ],
+    "color": "Green",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-09-15T14:00:00",
+      "dropOffDateTime": "2024-09-20T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-14T23:30:00"
+  },
+  {
+    "carId": "41ae3f24-3c8d-45f9-9172-abc3e48d25ea",
+    "carRating": "5.0",
+    "images": [
+      "https://th.bing.com/th/id/OIP.qsVXdx-e2Wy8nLYV5f8YhAHaEK?rs=1&pid=ImgDetMain"
+    ],
+    "location": "UAE, Dubai",
+    "pickupLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "dropOffLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "model": "Lamborghini Urus 2023",
+    "pricePerDay": "600",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "4.0 Twin Turbo V8",
+    "fuelConsumption": "12.3 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "SPORTS SUV",
+    "mileageIncluded": "500 km/day",
+    "additionalFeatures": [
+      "Carbon fiber interior",
+      "Semi-autonomous driving",
+      "High-speed navigation"
+    ],
+    "color": "Yellow",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-10-01T10:00:00",
+      "dropOffDateTime": "2024-10-04T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-30T22:00:00"
+  },
+  {
+    "carId": "01c87432-3383-4328-85f8-7d20ba871509",
+    "carRating": "4.9",
+    "images": [
+      "https://th.bing.com/th/id/OIP.q9zBVsaLXxbEKLvILNiScgHaEo?rs=1&pid=ImgDetMain"
+    ],
+    "location": "Germany, Berlin",
+    "pickupLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "dropOffLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "model": "Tesla Model S 2022",
+    "pricePerDay": "250",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "ELECTRIC",
+    "engineCapacity": "Dual Motor AWD",
+    "fuelConsumption": "N/A (Electric)",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "PREMIUM",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": ["Autopilot", "GPS", "Wireless Smartphone Charging"],
+    "color": "Pearl White",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T08:00:00",
+      "dropOffDateTime": "2024-12-05T18:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T21:00:00"
+  },
+  {
+    "carId": "73c48f22-3afb-4d51-bb10-b897c483f593",
+    "carRating": "4.9",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/06/10/escalade-v-inline-B-1.jpg?auto=webp"
+    ],
+    "location": "USA, New York",
+    "pickupLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "dropOffLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "model": "Cadillac Escalade 2021",
+    "pricePerDay": "320",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "6.2 V8",
+    "fuelConsumption": "15.0 L/100km",
+    "passengerCapacity": "7",
+    "climateControl": "Four-Zone Climate",
+    "category": "LUXURY SUV",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": [
+      "Heated seats",
+      "Rear Entertainment System",
+      "Premium Audio"
+    ],
+    "color": "Black",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T10:00:00",
+      "dropOffDateTime": "2024-12-06T12:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T22:00:00"
+  },
+  {
+    "carId": "92c87432-3383-4328-85f8-7d20ba8715ec",
+    "carRating": "4.8",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/11/15/new-2023-toyota-prius-lead.jpg?auto=webp"
+    ],
+    "location": "Japan, Tokyo",
+    "pickupLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "dropOffLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "model": "Toyota Prius 2023",
+    "pricePerDay": "120",
+    "serviceRating": "4.7",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "HYBRID",
+    "engineCapacity": "1.8 Hybrid System",
+    "fuelConsumption": "4.4 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Dual-Zone Climate",
+    "category": "HATCHBACK",
+    "mileageIncluded": "300 km/day",
+    "additionalFeatures": [
+      "Adaptive cruise control",
+      "Lane-keeping assist",
+      "Bluetooth"
+    ],
+    "color": "Green",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-09-15T14:00:00",
+      "dropOffDateTime": "2024-09-20T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-14T23:30:00"
+  },
+  {
+    "carId": "41ae3f24-3c8d-45f9-9172-abc3e48d25ea",
+    "carRating": "5.0",
+    "images": [
+      "https://th.bing.com/th/id/OIP.qsVXdx-e2Wy8nLYV5f8YhAHaEK?rs=1&pid=ImgDetMain"
+    ],
+    "location": "UAE, Dubai",
+    "pickupLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "dropOffLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "model": "Lamborghini Urus 2023",
+    "pricePerDay": "600",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "4.0 Twin Turbo V8",
+    "fuelConsumption": "12.3 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "SPORTS SUV",
+    "mileageIncluded": "500 km/day",
+    "additionalFeatures": [
+      "Carbon fiber interior",
+      "Semi-autonomous driving",
+      "High-speed navigation"
+    ],
+    "color": "Yellow",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-10-01T10:00:00",
+      "dropOffDateTime": "2024-10-04T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-30T22:00:00"
+  },
+  {
+    "carId": "01c87432-3383-4328-85f8-7d20ba871509",
+    "carRating": "4.9",
+    "images": [
+      "https://th.bing.com/th/id/OIP.q9zBVsaLXxbEKLvILNiScgHaEo?rs=1&pid=ImgDetMain"
+    ],
+    "location": "Germany, Berlin",
+    "pickupLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "dropOffLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "model": "Tesla Model S 2022",
+    "pricePerDay": "250",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "ELECTRIC",
+    "engineCapacity": "Dual Motor AWD",
+    "fuelConsumption": "N/A (Electric)",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "PREMIUM",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": ["Autopilot", "GPS", "Wireless Smartphone Charging"],
+    "color": "Pearl White",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T08:00:00",
+      "dropOffDateTime": "2024-12-05T18:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T21:00:00"
+  },
+  {
+    "carId": "73c48f22-3afb-4d51-bb10-b897c483f593",
+    "carRating": "4.9",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/06/10/escalade-v-inline-B-1.jpg?auto=webp"
+    ],
+    "location": "USA, New York",
+    "pickupLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "dropOffLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "model": "Cadillac Escalade 2021",
+    "pricePerDay": "320",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "6.2 V8",
+    "fuelConsumption": "15.0 L/100km",
+    "passengerCapacity": "7",
+    "climateControl": "Four-Zone Climate",
+    "category": "LUXURY SUV",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": [
+      "Heated seats",
+      "Rear Entertainment System",
+      "Premium Audio"
+    ],
+    "color": "Black",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T10:00:00",
+      "dropOffDateTime": "2024-12-06T12:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T22:00:00"
+  },
+  {
+    "carId": "92c87432-3383-4328-85f8-7d20ba8715ec",
+    "carRating": "4.8",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/11/15/new-2023-toyota-prius-lead.jpg?auto=webp"
+    ],
+    "location": "Japan, Tokyo",
+    "pickupLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "dropOffLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "model": "Toyota Prius 2023",
+    "pricePerDay": "120",
+    "serviceRating": "4.7",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "HYBRID",
+    "engineCapacity": "1.8 Hybrid System",
+    "fuelConsumption": "4.4 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Dual-Zone Climate",
+    "category": "HATCHBACK",
+    "mileageIncluded": "300 km/day",
+    "additionalFeatures": [
+      "Adaptive cruise control",
+      "Lane-keeping assist",
+      "Bluetooth"
+    ],
+    "color": "Green",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-09-15T14:00:00",
+      "dropOffDateTime": "2024-09-20T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-14T23:30:00"
+  },
+  {
+    "carId": "41ae3f24-3c8d-45f9-9172-abc3e48d25ea",
+    "carRating": "5.0",
+    "images": [
+      "https://th.bing.com/th/id/OIP.qsVXdx-e2Wy8nLYV5f8YhAHaEK?rs=1&pid=ImgDetMain"
+    ],
+    "location": "UAE, Dubai",
+    "pickupLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "dropOffLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "model": "Lamborghini Urus 2023",
+    "pricePerDay": "600",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "4.0 Twin Turbo V8",
+    "fuelConsumption": "12.3 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "SPORTS SUV",
+    "mileageIncluded": "500 km/day",
+    "additionalFeatures": [
+      "Carbon fiber interior",
+      "Semi-autonomous driving",
+      "High-speed navigation"
+    ],
+    "color": "Yellow",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-10-01T10:00:00",
+      "dropOffDateTime": "2024-10-04T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-30T22:00:00"
+  },
+  {
+    "carId": "01c87432-3383-4328-85f8-7d20ba871509",
+    "carRating": "4.9",
+    "images": [
+      "https://th.bing.com/th/id/OIP.q9zBVsaLXxbEKLvILNiScgHaEo?rs=1&pid=ImgDetMain"
+    ],
+    "location": "Germany, Berlin",
+    "pickupLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "dropOffLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "model": "Tesla Model S 2022",
+    "pricePerDay": "250",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "ELECTRIC",
+    "engineCapacity": "Dual Motor AWD",
+    "fuelConsumption": "N/A (Electric)",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "PREMIUM",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": ["Autopilot", "GPS", "Wireless Smartphone Charging"],
+    "color": "Pearl White",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T08:00:00",
+      "dropOffDateTime": "2024-12-05T18:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T21:00:00"
+  },
+  {
+    "carId": "73c48f22-3afb-4d51-bb10-b897c483f593",
+    "carRating": "4.9",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/06/10/escalade-v-inline-B-1.jpg?auto=webp"
+    ],
+    "location": "USA, New York",
+    "pickupLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "dropOffLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "model": "Cadillac Escalade 2021",
+    "pricePerDay": "320",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "6.2 V8",
+    "fuelConsumption": "15.0 L/100km",
+    "passengerCapacity": "7",
+    "climateControl": "Four-Zone Climate",
+    "category": "LUXURY SUV",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": [
+      "Heated seats",
+      "Rear Entertainment System",
+      "Premium Audio"
+    ],
+    "color": "Black",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T10:00:00",
+      "dropOffDateTime": "2024-12-06T12:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T22:00:00"
+  },
+  {
+    "carId": "92c87432-3383-4328-85f8-7d20ba8715ec",
+    "carRating": "4.8",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/11/15/new-2023-toyota-prius-lead.jpg?auto=webp"
+    ],
+    "location": "Japan, Tokyo",
+    "pickupLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "dropOffLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "model": "Toyota Prius 2023",
+    "pricePerDay": "120",
+    "serviceRating": "4.7",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "HYBRID",
+    "engineCapacity": "1.8 Hybrid System",
+    "fuelConsumption": "4.4 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Dual-Zone Climate",
+    "category": "HATCHBACK",
+    "mileageIncluded": "300 km/day",
+    "additionalFeatures": [
+      "Adaptive cruise control",
+      "Lane-keeping assist",
+      "Bluetooth"
+    ],
+    "color": "Green",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-09-15T14:00:00",
+      "dropOffDateTime": "2024-09-20T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-14T23:30:00"
+  },
+  {
+    "carId": "41ae3f24-3c8d-45f9-9172-abc3e48d25ea",
+    "carRating": "5.0",
+    "images": [
+      "https://th.bing.com/th/id/OIP.qsVXdx-e2Wy8nLYV5f8YhAHaEK?rs=1&pid=ImgDetMain"
+    ],
+    "location": "UAE, Dubai",
+    "pickupLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "dropOffLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "model": "Lamborghini Urus 2023",
+    "pricePerDay": "600",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "4.0 Twin Turbo V8",
+    "fuelConsumption": "12.3 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "SPORTS SUV",
+    "mileageIncluded": "500 km/day",
+    "additionalFeatures": [
+      "Carbon fiber interior",
+      "Semi-autonomous driving",
+      "High-speed navigation"
+    ],
+    "color": "Yellow",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-10-01T10:00:00",
+      "dropOffDateTime": "2024-10-04T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-30T22:00:00"
+  },
+  {
+    "carId": "01c87432-3383-4328-85f8-7d20ba871509",
+    "carRating": "4.9",
+    "images": [
+      "https://th.bing.com/th/id/OIP.q9zBVsaLXxbEKLvILNiScgHaEo?rs=1&pid=ImgDetMain"
+    ],
+    "location": "Germany, Berlin",
+    "pickupLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "dropOffLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "model": "Tesla Model S 2022",
+    "pricePerDay": "250",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "ELECTRIC",
+    "engineCapacity": "Dual Motor AWD",
+    "fuelConsumption": "N/A (Electric)",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "PREMIUM",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": ["Autopilot", "GPS", "Wireless Smartphone Charging"],
+    "color": "Pearl White",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T08:00:00",
+      "dropOffDateTime": "2024-12-05T18:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T21:00:00"
+  },
+  {
+    "carId": "73c48f22-3afb-4d51-bb10-b897c483f593",
+    "carRating": "4.9",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/06/10/escalade-v-inline-B-1.jpg?auto=webp"
+    ],
+    "location": "USA, New York",
+    "pickupLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "dropOffLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "model": "Cadillac Escalade 2021",
+    "pricePerDay": "320",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "6.2 V8",
+    "fuelConsumption": "15.0 L/100km",
+    "passengerCapacity": "7",
+    "climateControl": "Four-Zone Climate",
+    "category": "LUXURY SUV",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": [
+      "Heated seats",
+      "Rear Entertainment System",
+      "Premium Audio"
+    ],
+    "color": "Black",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T10:00:00",
+      "dropOffDateTime": "2024-12-06T12:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T22:00:00"
+  },
+  {
+    "carId": "92c87432-3383-4328-85f8-7d20ba8715ec",
+    "carRating": "4.8",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/11/15/new-2023-toyota-prius-lead.jpg?auto=webp"
+    ],
+    "location": "Japan, Tokyo",
+    "pickupLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "dropOffLocationId": "841ef2c7-a7f3-4578-b348-604e35db7b43",
+    "model": "Toyota Prius 2023",
+    "pricePerDay": "120",
+    "serviceRating": "4.7",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "HYBRID",
+    "engineCapacity": "1.8 Hybrid System",
+    "fuelConsumption": "4.4 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Dual-Zone Climate",
+    "category": "HATCHBACK",
+    "mileageIncluded": "300 km/day",
+    "additionalFeatures": [
+      "Adaptive cruise control",
+      "Lane-keeping assist",
+      "Bluetooth"
+    ],
+    "color": "Green",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-09-15T14:00:00",
+      "dropOffDateTime": "2024-09-20T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-14T23:30:00"
+  },
+  {
+    "carId": "41ae3f24-3c8d-45f9-9172-abc3e48d25ea",
+    "carRating": "5.0",
+    "images": [
+      "https://th.bing.com/th/id/OIP.qsVXdx-e2Wy8nLYV5f8YhAHaEK?rs=1&pid=ImgDetMain"
+    ],
+    "location": "UAE, Dubai",
+    "pickupLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "dropOffLocationId": "b7d948c2-e61d-4b9e-ab8d-a4fc05de7459",
+    "model": "Lamborghini Urus 2023",
+    "pricePerDay": "600",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "4.0 Twin Turbo V8",
+    "fuelConsumption": "12.3 L/100km",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "SPORTS SUV",
+    "mileageIncluded": "500 km/day",
+    "additionalFeatures": [
+      "Carbon fiber interior",
+      "Semi-autonomous driving",
+      "High-speed navigation"
+    ],
+    "color": "Yellow",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-10-01T10:00:00",
+      "dropOffDateTime": "2024-10-04T14:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-09-30T22:00:00"
+  },
+  {
+    "carId": "01c87432-3383-4328-85f8-7d20ba871509",
+    "carRating": "4.9",
+    "images": [
+      "https://th.bing.com/th/id/OIP.q9zBVsaLXxbEKLvILNiScgHaEo?rs=1&pid=ImgDetMain"
+    ],
+    "location": "Germany, Berlin",
+    "pickupLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "dropOffLocationId": "12d903ef-9d13-4098-a23e-04acc63d3218",
+    "model": "Tesla Model S 2022",
+    "pricePerDay": "250",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "ELECTRIC",
+    "engineCapacity": "Dual Motor AWD",
+    "fuelConsumption": "N/A (Electric)",
+    "passengerCapacity": "5",
+    "climateControl": "Four-Zone Climate",
+    "category": "PREMIUM",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": ["Autopilot", "GPS", "Wireless Smartphone Charging"],
+    "color": "Pearl White",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T08:00:00",
+      "dropOffDateTime": "2024-12-05T18:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T21:00:00"
+  },
+  {
+    "carId": "73c48f22-3afb-4d51-bb10-b897c483f593",
+    "carRating": "4.9",
+    "images": [
+      "https://www.thedrive.com/uploads/2022/06/10/escalade-v-inline-B-1.jpg?auto=webp"
+    ],
+    "location": "USA, New York",
+    "pickupLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "dropOffLocationId": "d1e82c47-a7f3-490a-b758-f84b93df25a6",
+    "model": "Cadillac Escalade 2021",
+    "pricePerDay": "320",
+    "serviceRating": "4.9",
+    "status": "AVAILABLE",
+    "gearBoxType": "AUTOMATIC",
+    "fuelType": "PETROL",
+    "engineCapacity": "6.2 V8",
+    "fuelConsumption": "15.0 L/100km",
+    "passengerCapacity": "7",
+    "climateControl": "Four-Zone Climate",
+    "category": "LUXURY SUV",
+    "mileageIncluded": "Unlimited",
+    "additionalFeatures": [
+      "Heated seats",
+      "Rear Entertainment System",
+      "Premium Audio"
+    ],
+    "color": "Black",
+    "availabilityByDates": {
+      "pickupDateTime": "2024-12-01T10:00:00",
+      "dropOffDateTime": "2024-12-06T12:00:00"
+    },
+    "insuranceIncluded": "Yes",
+    "bookingModificationAllowedUntil": "2024-11-30T22:00:00"
+  }
+  
+]

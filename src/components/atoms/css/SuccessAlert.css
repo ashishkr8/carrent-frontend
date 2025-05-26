@@ -1,0 +1,36 @@
+.success-alert *{
+    background-color: #E2FAE7;
+    
+}
+.success-alert{
+    width: 370px;
+    border: 2px solid #149E32;
+    background-color: #E2FAE7;
+    opacity: 0.95;
+    padding: 20px 24px;
+    border-radius: 5px;
+    display: flex;
+    gap: 18px;
+    position: relative;
+    z-index: 1000;
+    line-height: 22px;
+}
+#success-cross{
+position: absolute;
+top: 8px;
+right: 8px;
+}
+#success-check{
+
+}
+#success-box{
+
+}
+#success-message{
+    font-size: 18px;
+    color: black;
+}
+#success-description{
+    font-size: 14px;
+
+}

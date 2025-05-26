@@ -1,0 +1,33 @@
+/* ABOUT US */
+#about-us
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 15%;
+}
+#about-subhead{
+    grid-row: span 2;
+}
+
+
+
+
+
+/* MEDIA Query */
+@media screen and (max-width: 640px) {
+    .subheadings{
+        text-align: center;
+    }
+
+    #about-us
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }  
+
+
+}
+

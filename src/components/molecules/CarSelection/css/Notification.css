@@ -1,0 +1,88 @@
+
+.notification {
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 30.7vw; /* 30.7vw is approximately 500px */
+    /* height: 123px; */
+    border-radius: 4px;
+    padding: 1.11vw;
+    gap: 1.11vw;
+    border: 1px solid #e57373;
+    background: #F8E7E7;
+    z-index: 9999; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  
+
+  .notification-content {
+    display: flex;
+    
+  }
+  
+  /* Symbol box */
+  .notification-icon svg{
+    width: 2.22vw;
+    height: 2.22vw  ;
+   
+    margin-right: 0.83vw;
+    
+  }
+  
+
+  .notification-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.28vw ;
+    
+  }
+  
+  .notification-text p {
+    margin: 0;
+    /* width: 375px; */
+    height:  1.11vw;
+    /* line-height: 16px; */
+    font-size: 0.9722vw;
+    color: #000;
+    /* background: #F8E7E7 !important; */
+  }
+  
+  /* Button container aligned to bottom right */
+  .buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.555vw;
+    /* background: #F8E7E7 !important; */
+  }
+  
+  /* Shared button styles */
+  .cancel,
+  .login {
+    width: 6.25vw;
+    height: 2.5vw;
+    border-radius: 30px;
+    font-size: 0.83vw;
+    border: none;
+    cursor: pointer;
+    
+  }
+  
+  .cancel {
+    background: #F8E7E7 ;
+    border: 1px solid #000 !important;
+    color: #000;
+  }
+  
+  
+  .login {
+    /* background-color: #007bff; */
+    background-color: #CC1D1D !important;
+
+    color: white;
+  }
+  

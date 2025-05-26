@@ -1,0 +1,29 @@
+.faq-item
+{
+    border-bottom: 1.5px solid #DCDCDD;
+    padding: 0px 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* gap: 10px; */
+}
+.faq-button{
+    right: 5px;
+    margin: auto 0px;
+}
+#oc-btn{
+    
+}
+.faq-ques{
+    padding: 16px 2px;
+    display: flex;
+    height: 100%;
+    font-size: 24px;
+    justify-content: space-between;
+}
+.faq-ans{
+    font-size: 18px;
+    color: #666666;
+    transform: slideinout;
+    padding-bottom:8px ;
+}

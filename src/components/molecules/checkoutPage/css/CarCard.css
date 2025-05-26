@@ -1,0 +1,154 @@
+.car-card {
+  width: 100%;
+  max-width: 280px;
+  height: auto;
+  margin: 10px;
+  position: relative;
+  font-family: 'Inter', sans-serif;
+  background-color: #f0f0f0;
+  color: #000000;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.car-card-top {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.booking-status {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 1;
+  min-width: 75px;
+  height: 30px;
+  border-radius: 6px;
+  padding: 0 8px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.booking-status-text {
+  font-size: 10px;
+  font-weight: 400;
+  color: #15803d;
+}
+
+.car-image {
+  width: 100%;
+  max-height: 180px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.car-model {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.order-history {
+  font-size: 14px;
+  color: #666666;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.car-card-bottom {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.button-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.cancel-btn,
+.edit-btn,
+.feedback-btn,
+.leave,
+.view {
+  flex: 1 1 45%;
+  min-height: 30px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 10px 12px;
+  box-sizing: border-box;
+}
+
+.cancel-btn,
+.view {
+  background-color: #f3f3f3;
+  color: black;
+  border: 1.5px solid black;
+}
+
+.edit-btn,
+.leave {
+  background-color: #cc1d1d;
+  color: white;
+  border: none;
+}
+
+.support-text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin: 0;
+}
+
+.support-link {
+  font-weight: 500;
+  color: black;
+  text-decoration: underline;
+}
+
+/* ----------- Responsive Breakpoints ----------- */
+
+@media (max-width: 1024px) {
+  .car-card {
+    max-width: 45%;
+  }
+}
+
+@media (max-width: 768px) {
+  .car-card {
+    max-width: 100%;
+  }
+
+  .button-row {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .cancel-btn,
+  .edit-btn,
+  .feedback-btn,
+  .leave,
+  .view {
+    width: 100%;
+    min-height: 30px;
+    font-size: 15px;
+  }
+}

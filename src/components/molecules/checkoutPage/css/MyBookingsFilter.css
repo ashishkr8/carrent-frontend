@@ -1,0 +1,75 @@
+/* .filter-root{
+
+    
+    gap: 24px;
+
+} */
+
+.filter{
+    list-style-type: none;
+
+    display: flex;
+    flex-flow: row wrap;
+    gap: 32px;
+    
+}
+
+.filter > li{
+
+    padding: 8px;
+
+    font-family: Roboto;
+    font-weight:400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+    color: #666666;
+
+
+}
+
+.filter > li:hover{
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.filter .active{
+    font-weight: 700;
+    color: black;
+}
+
+
+.toggle-filters-btn {
+  display: none;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  background: none;
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .toggle-filters-btn {
+    display: inline-block;
+  }
+
+  .filter {
+    flex-direction: column;
+    gap: 10px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+
+  .filter.expanded {
+    max-height: 500px; /* or enough to fit all list items */
+  }
+
+  .filter.collapsed {
+    max-height: 0;
+  }
+}

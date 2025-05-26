@@ -1,0 +1,27 @@
+#faq
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+#faq-container{
+    grid-column: span 2;
+
+}
+
+
+/* MEDIA Query */
+@media screen and (max-width: 640px) {
+    .subheadings{
+        text-align: center;
+    }
+    #faq
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    #oc-btn{
+        margin-left: 8px;
+    }
+
+
+}

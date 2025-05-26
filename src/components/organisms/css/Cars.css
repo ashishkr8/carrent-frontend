@@ -1,0 +1,12 @@
+.cars-page{
+    height: 70vh;
+}
+
+#cars{
+    padding: 11px;
+    background-color: #FFFBF3;
+
+}
+#cars section{
+    margin: 3rem 0px;
+}

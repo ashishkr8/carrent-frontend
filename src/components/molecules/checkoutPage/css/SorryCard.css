@@ -1,0 +1,64 @@
+.rejection-root{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rejection-container{
+    width: 400px;
+    height: 194px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 24px;
+
+    background-color:  #FFFBF3;
+
+}
+
+.sorry-text{
+
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -2%;
+    vertical-align: middle;
+
+}
+
+.rejection-text{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -2%;
+    vertical-align: middle;
+    text-decoration-style: solid;
+    text-decoration-thickness: 0%;
+    
+    color: #666666;
+
+
+}
+
+.link{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.button{
+    width: 352px;
+    height: 42px;
+    gap: 8px;
+    border-radius: 30px;
+    
+
+    background: #CC1D1D;
+
+    text-align: center;
+
+}

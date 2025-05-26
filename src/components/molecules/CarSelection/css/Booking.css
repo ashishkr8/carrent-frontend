@@ -1,0 +1,36 @@
+/* Booking Section */
+.booking-section {
+
+  aspect-ratio: 5.297;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2vw;
+}
+
+
+
+.book-now-btn {
+  width: 100%;
+  height: 4vw;
+  border-radius: 30px;
+  padding: 1vw;
+  display: flex;
+  gap:0.555vw;
+  align-items: center;
+  justify-content: center;
+  background-color: #cc1d1d;
+  color: white;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 1.4vw;
+
+  line-height: 100%;
+  letter-spacing: -0.02em;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+

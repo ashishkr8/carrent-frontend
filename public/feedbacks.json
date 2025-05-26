@@ -1,0 +1,50 @@
+[
+  {
+    "car_model": "Mercedes-Benz A Class 2019",
+    "image": "https://th.bing.com/th/id/OIP.Xo-7Cr5lGyX9f6bpmiUtRwAAAA?rs=1&pid=ImgDetMain",
+    "feedback": {
+      "order_history": "#2437",
+      "date": "06.11.24",
+      "rating": 4,
+      "review": "Fantastic service from start to finish! The booking process was smooth, and the staff was incredibly helpful in answering all my questions.",
+      "customer_name": "Sarah L.",
+      "location": "New York, USA"
+    }
+  },
+  {
+    "car_model": "BMW 3 Series 2020",
+    "image": "https://th.bing.com/th/id/OIP.nHC5yjmlkIlZdUzVCcXh0wHaE8?rs=1&pid=ImgDetMain",
+    "feedback": {
+      "order_history": "#2439",
+      "date": "08.11.24",
+      "rating": 5,
+      "review": "An amazing driving experience. The car is sleek, and the interior is top-of-the-line. Highly recommend this car to anyone looking for both luxury and performance.",
+      "customer_name": "Michael W.",
+      "location": "San Francisco, USA"
+    }
+  },
+  {
+    "car_model": "Audi A4 2021",
+    "image": "https://th.bing.com/th/id/OIP.keBcqegBxC39Zb4blMg69AHaE7?rs=1&pid=ImgDetMain",
+    "feedback": {
+      "order_history": "#2441",
+      "date": "10.11.24",
+      "rating": 4,
+      "review": "The car is fantastic! Love the smooth ride and the sophisticated design. The only issue was with the app integration, which was not as seamless as expected.",
+      "customer_name": "Emma K.",
+      "location": "Seattle, USA"
+    }
+  },
+  {
+    "car_model": "Tesla Model 3 2022",
+    "image": "https://th.bing.com/th/id/OIP.qjUsfXkDhx0m_WOm2W6d0gAAAA?rs=1&pid=ImgDetMain",
+    "feedback": {
+      "order_history": "#2443",
+      "date": "12.11.24",
+      "rating": 5,
+      "review": "I love the electric driving experience! The autopilot feature is amazing, and I feel like I'm driving the future.",
+      "customer_name": "Alice B.",
+      "location": "Los Angeles, USA"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+#redBtnSubmit{
+    background-color: #CC1d1d;
+    color: white;
+    padding: 8px 4px;
+    border-radius: 18px;
+    width: 100%;
+    border:none;
+}
+#redBtnSubmit:hover{
+    background-color: #b61919;
+    cursor: pointer;
+}
