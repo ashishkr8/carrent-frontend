@@ -4,7 +4,7 @@ import Input from "../atoms/Authentication/Input";
 import PasswordInput from "../atoms/Authentication/PasswordInput";
 import RedInputBtn from "../atoms/RedInputBtn";
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import "./css/login.css";
+import "./css/Login.css";
 
 import { useAlert } from "../../context/alert/useAlert";
 import AlertBox from "../../context/alert/AlertBox";
