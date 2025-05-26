@@ -1,7 +1,7 @@
 
 import "react-datepicker/dist/react-datepicker.css";
 import DateRangeSelector from "./DateRangeSelector";
-import "./css/booking.css"; // Import the CSS file
+import "./css/Booking.css"; // Import the CSS file
 import { useNavigate } from "react-router-dom";
 
 
